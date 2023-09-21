@@ -2,7 +2,7 @@
 
 - 📫 How to reach me **steyolanda@gmail.com**
 
-/* - 📄 Know about my portofolio [https://drive.google.com/file/d/1nD0k4qhswKVQgb6aN3IQEoro4kC1MkI1/view?usp=sharing](https://drive.google.com/file/d/1nD0k4qhswKVQgb6aN3IQEoro4kC1MkI1/view?usp=sharing) */
+// - 📄 Know about my portofolio [https://drive.google.com/file/d/1nD0k4qhswKVQgb6aN3IQEoro4kC1MkI1/view?usp=sharing](https://drive.google.com/file/d/1nD0k4qhswKVQgb6aN3IQEoro4kC1MkI1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
