@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Stephanie</h1>
+- 👨‍💻 All of my projects are available at [https://drive.google.com/drive/folders/1S5e4zvmBd6cMD1MbmjXk77mtqxAgIuos?usp=drive_link](https://drive.google.com/drive/folders/1S5e4zvmBd6cMD1MbmjXk77mtqxAgIuos?usp=drive_link)
+
 - 📫 How to reach me **steyolanda@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1nD0k4qhswKVQgb6aN3IQEoro4kC1MkI1/view?usp=sharing](https://drive.google.com/file/d/1nD0k4qhswKVQgb6aN3IQEoro4kC1MkI1/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
